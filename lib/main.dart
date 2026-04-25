@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Oye Git Nerchkuntunna neetoh',
+              '',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
             Text(
-              '----- $_counter --- ',
+              '----- $_counter ------ ',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
           ],
