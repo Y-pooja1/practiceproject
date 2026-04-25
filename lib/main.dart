@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Oye Emm Chestunnav',
+              'Oye Git Nerchkuntunna neetoh',
               style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
